@@ -18,7 +18,7 @@ A learning project for the Epicodus coding school, made to practice C# and MSTES
 To install locally:
 * Install git
 * Install the [.NET 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
-* Use _git clone_ this repository to a local directory
+* Use _git clone_ to download this repository to a local directory
 * Navigate to this local directory in your terminal
 * Navigate to the _/TriangleTracker.Test_ folder in your terminal
 * Enter _dotnet restore_ to install testing packages
